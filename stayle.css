@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body{
+    background-color: #d1c58d42;
+}
+
+h1{
+    color: brown;
+}
+.header{
+    margin: 3px 10px;
+    border: 30px 20px;
+    text-align: center;
+    background-color: rgba(224, 219, 145, 0.856);
+}
+h2{
+    color: rgba(71, 55, 161, 0.932);
+    text-align: center;
+}
+.bn{
+
+    margin: 3px;
+    border: 30px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(192, 71, 62, 0.856);
+    size: 10px;
+}
